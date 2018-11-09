@@ -1,0 +1,2 @@
+# worldofdata-javaplots
+JavaPlots is a set of java tools for plotting 1 and 2D arrays. The suite is designed to be simple to use and is geared towards beginning programmers needing basic plotting capabilities without prior knowledge of GUI design. Each component by default creates its own JFrame as a wrapper, so that it can be called directly from a console application.  Also included are example files showing usage of the plotting suite.
